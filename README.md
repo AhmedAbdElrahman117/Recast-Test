@@ -48,10 +48,10 @@ All dynamic data rendered throughout the views (Venue Grids, Transaction Histori
 
 To run the app locally, ensure your environment meets the \sdk: ^3.11.0\ requirement:
 
-\\\ash
+\\\Bash
 flutter clean
 flutter pub get
 flutter run
 \\\
 
-Compatible directly out of the box with Android, iOS, Windows, and Web.
+Compatible directly out of the box with Android, iOS
